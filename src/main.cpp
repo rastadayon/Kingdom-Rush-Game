@@ -11,11 +11,10 @@
 
 using namespace std;
 
-#define level1Map "example/assets/levels/1/level1-map.png"
-#define level2Map "example/assets/levels/2/level2-map.png"
-#define YOU_WIN "win.png"
-#define YOU_LOSE "lose.png"
-//home/rasta/ut/AP/CA#1/ca/RSDL-master/example/assets/levels
+#define level1Map "src/assets/levels/1/level1-map.png"
+#define level2Map "src/assets/levels/2/level2-map.png"
+#define YOU_WIN "src/assets/general/win.png"
+#define YOU_LOSE "src/assets/general/lose.png"
 #define lev1_width 800
 #define lev1_height 800
 #define delay 15
@@ -57,32 +56,32 @@ const int dotCoords2 [13][2]={{481,-30},{485,166},{247,166},{191,250},{239,306},
 #define mage_tower 'm'
 #define icy_tower 'i'
 
-#define BALL_IMG "Ball.png"
+#define BALL_IMG "src/assets/general/Ball.png"
 
-#define ARCHER_IMAGE "example/assets/towers/archer.png"
-#define CANON_IMAGE "example/assets/towers/canon.png"
-#define ICY_IMAGE "example/assets/towers/icy.png"
-#define MAGE_IMAGE "example/assets/towers/mage.png"
+#define ARCHER_IMAGE "src/assets/towers/archer.png"
+#define CANON_IMAGE "src/assets/towers/canon.png"
+#define ICY_IMAGE "src/assets/towers/icy.png"
+#define MAGE_IMAGE "src/assets/towers/mage.png"
 
-#define ORC_RIGHT "example/assets/enemies/orc/right.png"
-#define ORC_LEFT "example/assets/enemies/orc/left.png"
-#define ORC_FRONT "example/assets/enemies/orc/front.png"
-#define ORC_BACK "example/assets/enemies/orc/back.png"
+#define ORC_RIGHT "src/assets/enemies/orc/right.png"
+#define ORC_LEFT "src/assets/enemies/orc/left.png"
+#define ORC_FRONT "src/assets/enemies/orc/front.png"
+#define ORC_BACK "src/assets/enemies/orc/back.png"
 
-#define ARMORED_RIGHT "example/assets/enemies/armored/right.png"
-#define ARMORED_LEFT "example/assets/enemies/armored/left.png"
-#define ARMORED_FRONT "example/assets/enemies/armored/front.png"
-#define ARMORED_BACK "example/assets/enemies/armored/back.png"
+#define ARMORED_RIGHT "src/assets/enemies/armored/right.png"
+#define ARMORED_LEFT "src/assets/enemies/armored/left.png"
+#define ARMORED_FRONT "src/assets/enemies/armored/front.png"
+#define ARMORED_BACK "src/assets/enemies/armored/back.png"
 
-#define WOLF_RIGHT "example/assets/enemies/wolf/right.png"
-#define WOLF_LEFT "example/assets/enemies/wolf/left.png"
-#define WOLF_FRONT "example/assets/enemies/wolf/front.png"
-#define WOLF_BACK "example/assets/enemies/wolf/back.png"
+#define WOLF_RIGHT "src/assets/enemies/wolf/right.png"
+#define WOLF_LEFT "src/assets/enemies/wolf/left.png"
+#define WOLF_FRONT "src/assets/enemies/wolf/front.png"
+#define WOLF_BACK "src/assets/enemies/wolf/back.png"
 
-#define DEMON_RIGHT "example/assets/enemies/demon/right.png"
-#define DEMON_LEFT "example/assets/enemies/demon/left.png"
-#define DEMON_FRONT "example/assets/enemies/demon/front.png"
-#define DEMON_BACK "example/assets/enemies/demon/back.png"
+#define DEMON_RIGHT "src/assets/enemies/demon/right.png"
+#define DEMON_LEFT "src/assets/enemies/demon/left.png"
+#define DEMON_FRONT "src/assets/enemies/demon/front.png"
+#define DEMON_BACK "src/assets/enemies/demon/back.png"
 #define enemy_size 40
 
 int TOWERNUM=-7;
