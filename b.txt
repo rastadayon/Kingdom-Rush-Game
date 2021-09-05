@@ -1,0 +1,17 @@
+2
+5 4 wolf
+25 4 wolf
+30 5 wolf
+50 1 demon 
+70 1 demon
+70 2 wolf
+74 1 demon
+78 4 wolf
+98 5 orc
+98 1 demon
+102 1 armored
+102 1 demon
+110 6 wolf
+112 4 orc
+112 1 demon
+112 1 armored

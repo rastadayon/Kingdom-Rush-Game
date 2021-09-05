@@ -1,0 +1,14 @@
+1
+5 3 orc
+20 3 orc
+24 3 orc
+44 2 armored
+60 1 armored
+60 3 orc
+66 1 armored
+66 4 orc
+90 1 armored
+90 4 orc
+95 6 orc
+101 1 armored
+101 5 orc
